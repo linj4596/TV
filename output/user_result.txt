@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-29 06:29:54,url
+2025-01-29 18:36:49,url
 📺央视频道,#genre#
 CCTV-1,http://61.164.209.98/cache.ott.bestlive.itv.cmvideo.cn/000000001000/6000000001000029752/index.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=no$订阅源
 CCTV-1,http://gslbserv.itv.cmvideo.cn:80/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=IPTV$订阅源
@@ -23,7 +23,7 @@ CCTV-2,http://61.164.209.98/cache.ott.bestlive.itv.cmvideo.cn/000000001000/60000
 CCTV-2,http://58.220.219.14:9901/tsfile/live/0002_1.m3u8$订阅源
 CCTV-2,http://gslbserv.itv.cmvideo.cn:80/1000000001000023315/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=IPTV$订阅源
 CCTV-2,http://121.33.239.242:9901/tsfile/live/0002_1.m3u8$订阅源
-CCTV-2,http://112.123.206.32:808/hls/2/index.m3u8$订阅源
+CCTV-2,https://api.olelive.com/dis/live/CCTV2HD/hls.m3u8$订阅源|1920x1080
 CCTV-2,http://139.196.151.191:1652/rtp/239.45.1.109:5140$上海电信组播源
 CCTV-2,http://120.55.49.231:6973/rtp/233.50.201.119:5140$浙江电信组播源
 CCTV-2,http://120.55.49.231:6973/rtp/233.50.201.2:5140$浙江电信组播源
@@ -593,7 +593,7 @@ CETV4,http://120.55.49.231:6973/rtp/233.50.200.162:5140$浙江电信组播源
 三沙卫视,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_SANSHA-HQ/G_SANSHA-HQ.m3u8$订阅源
 三沙卫视,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_SANSHA-HQ/G_SANSHA-HQ.m3u8?p=GITV&area=GD_CUCC&$订阅源
 三沙卫视,https://live3.hnntv.cn/srs/tv/ssws.m3u8$订阅源
-三沙卫视,http://www.jiaocj.xyz:4000/udp/239.49.0.167:8000$订阅源
+三沙卫视,http://www.jiaocj.xyz:4000/udp/239.49.0.167:8000$订阅源|1920x1080
 三沙卫视,http://139.196.151.191:1652/rtp/239.45.1.82:5140$上海电信组播源
 三沙卫视,http://139.129.231.228:50060/rtp/239.21.2.9:5002$组播源
 三沙卫视,http://139.129.231.228:3529/rtp/239.21.2.9:5002$组播源
@@ -738,7 +738,7 @@ CETV4,http://120.55.49.231:6973/rtp/233.50.200.162:5140$浙江电信组播源
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk$订阅源
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8$订阅源|1920x1080
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd$订阅源
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$订阅源|1920x1080
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$订阅源
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源|1920x1080
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$订阅源|1920x1080
 纬来体育,http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7$订阅源
@@ -747,18 +747,16 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$订阅源|192
 纬来体育,http://aktv.top/AKTV/live/aktv3/null1/AKTV.m3u8$订阅源|1920x1080
 J2,http://fm1077.serv00.net/Smart.php?id=j2_twn$订阅源|1920x1080
 无线新闻,https://nothingbe.serv00.net/tvb.php?id=C&type=hd$订阅源|1920x1080
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$订阅源|1920x1080
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$订阅源
 东森超视,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8$订阅源
 🎬电影频道,#genre#
-CHC家庭影院,http://59.173.243.210:9901/tsfile/live/1031_1.m3u8$订阅源
-CHC动作电影,http://59.173.243.210:9901/tsfile/live/1012_1.m3u8$订阅源
 NewTV惊悚悬疑,http://gslbserv.itv.cmvideo.cn/2000000003000000015/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000015&livemode=1&stbId=3$订阅源
 NewTV惊悚悬疑,http://gslbserv.itv.cmvideo.cn/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3$订阅源
 NewTV动作电影,http://gslbserv.itv.cmvideo.cn/2000000003000000017/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000017&livemode=1&stbId=3$订阅源
 NewTV动作电影,http://gslbserv.itv.cmvideo.cn/1000000004000018653/1.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3$订阅源
 经典电影,http://58.19.43.46:9901/tsfile/live/1012_1.m3u8$订阅源
 无线星河,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8$订阅源|1920x1080
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$订阅源|1920x1080
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$订阅源
 东森超视,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8$订阅源
 🏀体育频道,#genre#
 CCTV-5,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=3$订阅源
@@ -877,6 +875,8 @@ CCTV-15,http://120.55.49.231:6973/rtp/233.50.201.15:5140$浙江电信组播源
 香港卫视,url
 香港卫视,url
 东森综合,url
+CHC家庭影院,url
+CHC动作电影,url
 淘电影,url
 黑莓电影,url
 咪咕直播1,url
